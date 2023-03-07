@@ -1,0 +1,6 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{一、公共经济学的源起}{6}{0}{1}
+\beamer@sectionintoc {2}{二、公共经济学的定义及研究对象}{8}{0}{2}
+\beamer@sectionintoc {3}{三、政府的经济作用}{17}{0}{3}
+\beamer@sectionintoc {4}{四、公共经济学研究思维和方法}{22}{0}{4}
+\beamer@sectionintoc {5}{五、经济学家的意见分歧}{31}{0}{5}

@@ -1,0 +1,93 @@
+
+
+\documentclass[aspectratio=169, 10pt]{beamer}
+
+%%%%%%%%%%%%
+% Packages %
+%%%%%%%%%%%%
+
+\usepackage{ctex}
+\usepackage[english]{babel}
+\usepackage{packages/sleek}
+\usepackage{packages/tweaks}
+\usepackage{calligra} % thanks pakeage
+
+%%%%%%%%%%%%%%%%
+% Bibliography %
+%%%%%%%%%%%%%%%%
+
+\addbibresource{./resources/bib/references.bib}
+
+%%%%%%%%%%%%%%
+% Title-page %
+%%%%%%%%%%%%%%
+
+
+\title{计量经济学}
+\subtitle{Based on Metropolis theme}
+\author[LIU ShHUAI]{刘 {  } 帅}
+\institute{山西师范大学 {  } 经济与管理学院}
+\date{\today}
+\titlelogo{./resources/pdf/logo.png}
+\framelogo{./resources/pdf/logo.png}
+
+%%%%%%%%%%%%
+% Document %
+%%%%%%%%%%%%
+
+\begin{document}
+
+\maketitle
+
+\begin{frame}[plain]
+    % \begin{multicols}{1}
+    %   \frametitle{Outline}
+    %   \tableofcontents[hideallsubsections]
+    % \end{multicols}
+    \frametitle{Outline}
+    \tableofcontents[hideallsubsections]
+    % \tableofcontents[currentsection]
+  \end{frame}
+
+\section{Section}
+
+\begin{frame}[plain]
+    \frametitle{What's this Beamer about?}
+    这是一个方程. $$ a^2 + b^2 = c^2 $$
+\end{frame}
+
+\begin{frame}{Frame}
+    \begin{block}{Block}
+        This is a block.
+    \end{block}
+
+    \begin{alertblock}{Alert}
+        This is an \alert{alert} block.
+    \end{alertblock}
+
+    \blindfootnote{This is a footnote.}
+\end{frame}
+
+\section{Section1}
+
+\begin{frame}[standout]
+    Standout
+\end{frame}
+
+\begin{frame}[allowframebreaks]{References}
+    \nocite{einstein}
+    \nocite{knuthwebsite}
+    \nocite{dirac}
+    \printbibliography[heading=none]
+\end{frame}
+
+
+% ---------------------------------------------------------------------------
+\begin{frame}[standout]
+    \begin{center}
+        {\Huge\calligra Thanks!}
+      \end{center}
+\end{frame}
+% ---------------------------------------------------------------------------
+
+\end{document}
