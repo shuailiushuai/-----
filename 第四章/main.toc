@@ -1,5 +1,5 @@
 \babel@toc {english}{}\relax 
 \beamer@sectionintoc {1}{一、竞争性市场中看不见的手}{5}{0}{1}
 \beamer@sectionintoc {2}{二、福利经济学与帕累托效率}{7}{0}{2}
-\beamer@sectionintoc {3}{分析经济效率}{13}{0}{3}
+\beamer@sectionintoc {3}{三、分析经济效率}{13}{0}{3}
 \beamer@sectionintoc {4}{三、公共部门规模的度量}{16}{0}{4}

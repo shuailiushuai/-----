@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.5)  7 MAR 2023 21:38
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.5)  7 MAR 2023 23:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1846,7 +1846,7 @@ LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 00E43DB6E605F39144480CB64AE30C22;516.
+(rerunfilecheck)             Checksum: 07F7F7F79ECD74A700AA9FFAFC728E2D;532.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
@@ -1854,7 +1854,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  46250 strings out of 476179
  1039271 string characters out of 5813072
- 1511819 words of memory out of 5000000
+ 1511835 words of memory out of 5000000
  66121 multiletter control sequences out of 15000+600000
  482577 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
