@@ -1,6 +1,6 @@
 \babel@toc {english}{}\relax 
-\beamer@sectionintoc {1}{一、数据与经验典型特征事实}{5}{0}{1}
-\beamer@sectionintoc {2}{二、理论模型构建与分析}{9}{0}{2}
-\beamer@sectionintoc {3}{三、实证检验分析}{12}{0}{3}
-\beamer@sectionintoc {4}{四、实践应用}{14}{0}{4}
-\beamer@sectionintoc {5}{五、文献研究}{16}{0}{5}
+\beamer@sectionintoc {1}{一、数据与经验典型特征事实}{6}{0}{1}
+\beamer@sectionintoc {2}{二、理论模型构建与分析}{10}{0}{2}
+\beamer@sectionintoc {3}{三、实证检验分析}{13}{0}{3}
+\beamer@sectionintoc {4}{四、实践应用}{15}{0}{4}
+\beamer@sectionintoc {5}{五、文献研究}{17}{0}{5}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.5)  8 MAR 2023 10:14
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.5)  13 MAR 2023 17:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1772,13 +1772,68 @@ File: ./resources/pdf/logo.png Graphic file (type bmp)
  [17
 
 ]
+File: ./resources/figure/comchoice.png Graphic file (type bmp)
+<./resources/figure/comchoice.png>
+File: ./resources/pdf/logo.png Graphic file (type bmp)
+<./resources/pdf/logo.png>
+ [18
+
+]
+File: ./resources/figure/exchangeeff.png Graphic file (type bmp)
+<./resources/figure/exchangeeff.png>
+File: ./resources/pdf/logo.png Graphic file (type bmp)
+<./resources/pdf/logo.png>
+ [19
+
+]
+File: ./resources/figure/propos.png Graphic file (type bmp)
+<./resources/figure/propos.png>
+File: ./resources/pdf/logo.png Graphic file (type bmp)
+<./resources/pdf/logo.png>
+ [20
+
+]
+File: ./resources/pdf/logo.png Graphic file (type bmp)
+<./resources/pdf/logo.png>
+ [21
+
+]
+File: ./resources/figure/production.png Graphic file (type bmp)
+<./resources/figure/production.png>
+File: ./resources/pdf/logo.png Graphic file (type bmp)
+<./resources/pdf/logo.png>
+
+Overfull \vbox (25.11404pt too high) detected at line 264
+ []
+
+[22
+
+]
+File: ./resources/figure/proeff.png Graphic file (type bmp)
+<./resources/figure/proeff.png>
+File: ./resources/pdf/logo.png Graphic file (type bmp)
+<./resources/pdf/logo.png>
+ [23
+
+]
+File: ./resources/figure/promixeff.png Graphic file (type bmp)
+<./resources/figure/promixeff.png>
+File: ./resources/pdf/logo.png Graphic file (type bmp)
+<./resources/pdf/logo.png>
+
+Overfull \vbox (15.01216pt too high) detected at line 290
+ []
+
+[24
+
+]
 
 LaTeX Font Warning: Font shape `T1/calligra/b/n' undefined
-(Font)              using `T1/calligra/m/n' instead on input line 202.
+(Font)              using `T1/calligra/m/n' instead on input line 297.
 
 LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 35.82726pt on input line 202.
-[18
+(Font)              scaled to size 35.82726pt on input line 297.
+[25
 
 ]
 \tf@nav=\write8
@@ -1801,12 +1856,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46175 strings out of 476179
- 1037327 string characters out of 5813072
- 1511291 words of memory out of 5000000
- 66053 multiletter control sequences out of 15000+600000
+ 46246 strings out of 476179
+ 1039682 string characters out of 5813072
+ 1511683 words of memory out of 5000000
+ 66118 multiletter control sequences out of 15000+600000
  482577 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  128i,11n,148p,1843b,3921s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (18 pages).
+Output written on main.pdf (25 pages).
