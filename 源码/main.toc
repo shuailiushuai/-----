@@ -1,3 +1,0 @@
-\babel@toc {english}{}\relax 
-\beamer@sectionintoc {1}{Section}{3}{0}{1}
-\beamer@sectionintoc {2}{Section1}{6}{0}{2}

@@ -1,0 +1,7 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{内容提要}{4}{0}{1}
+\beamer@sectionintoc {2}{一、引言}{6}{0}{2}
+\beamer@sectionintoc {3}{二、我国保障性住房制度的社会福利增进效应}{10}{0}{3}
+\beamer@sectionintoc {4}{三、我国保障性住房建设与分配中的社会福利损失}{16}{0}{4}
+\beamer@sectionintoc {5}{四、国外保障性住房制度的建设经验}{27}{0}{5}
+\beamer@sectionintoc {6}{五、提升保障房制度社会福利效应的对策}{33}{0}{6}
