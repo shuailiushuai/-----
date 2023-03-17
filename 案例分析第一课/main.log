@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.5)  16 MAR 2023 21:56
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.5)  17 MAR 2023 09:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1713,7 +1713,10 @@ File: ./resources/pdf/logo.png Graphic file (type bmp)
 <./resources/pdf/logo.png>
  [9
 
-] [10
+]
+File: ./resources/pdf/logo.png Graphic file (type bmp)
+<./resources/pdf/logo.png>
+ [10
 
 ]
 File: ./resources/pdf/logo.png Graphic file (type bmp)
@@ -1736,8 +1739,6 @@ File: ./resources/pdf/logo.png Graphic file (type bmp)
  [14
 
 ]
-File: ./resources/figure/renthouse.png Graphic file (type bmp)
-<./resources/figure/renthouse.png>
 File: ./resources/pdf/logo.png Graphic file (type bmp)
 <./resources/pdf/logo.png>
  [15
@@ -1765,16 +1766,13 @@ File: ./resources/pdf/logo.png Graphic file (type bmp)
  [20
 
 ]
+File: ./resources/figure/renthouse.png Graphic file (type bmp)
+<./resources/figure/renthouse.png>
 File: ./resources/pdf/logo.png Graphic file (type bmp)
 <./resources/pdf/logo.png>
  [21
 
-]
-File: ./resources/figure/squeeze.png Graphic file (type bmp)
-<./resources/figure/squeeze.png>
-File: ./resources/pdf/logo.png Graphic file (type bmp)
-<./resources/pdf/logo.png>
- [22
+] [22
 
 ]
 File: ./resources/pdf/logo.png Graphic file (type bmp)
@@ -1787,8 +1785,6 @@ File: ./resources/pdf/logo.png Graphic file (type bmp)
  [24
 
 ]
-File: ./resources/figure/regulation.png Graphic file (type bmp)
-<./resources/figure/regulation.png>
 File: ./resources/pdf/logo.png Graphic file (type bmp)
 <./resources/pdf/logo.png>
  [25
@@ -1798,7 +1794,10 @@ File: ./resources/pdf/logo.png Graphic file (type bmp)
 <./resources/pdf/logo.png>
  [26
 
-] [27
+]
+File: ./resources/pdf/logo.png Graphic file (type bmp)
+<./resources/pdf/logo.png>
+ [27
 
 ]
 File: ./resources/pdf/logo.png Graphic file (type bmp)
@@ -1806,9 +1805,15 @@ File: ./resources/pdf/logo.png Graphic file (type bmp)
  [28
 
 ]
+File: ./resources/figure/squeeze.png Graphic file (type bmp)
+<./resources/figure/squeeze.png>
 File: ./resources/pdf/logo.png Graphic file (type bmp)
 <./resources/pdf/logo.png>
- [29
+
+Overfull \vbox (4.1206pt too high) detected at line 226
+ []
+
+[29
 
 ]
 File: ./resources/pdf/logo.png Graphic file (type bmp)
@@ -1816,6 +1821,8 @@ File: ./resources/pdf/logo.png Graphic file (type bmp)
  [30
 
 ]
+File: ./resources/figure/regulation.png Graphic file (type bmp)
+<./resources/figure/regulation.png>
 File: ./resources/pdf/logo.png Graphic file (type bmp)
 <./resources/pdf/logo.png>
  [31
@@ -1848,13 +1855,40 @@ File: ./resources/pdf/logo.png Graphic file (type bmp)
  [37
 
 ]
+File: ./resources/pdf/logo.png Graphic file (type bmp)
+<./resources/pdf/logo.png>
+ [38
+
+] [39
+
+]
+File: ./resources/pdf/logo.png Graphic file (type bmp)
+<./resources/pdf/logo.png>
+ [40
+
+]
+File: ./resources/pdf/logo.png Graphic file (type bmp)
+<./resources/pdf/logo.png>
+ [41
+
+]
+File: ./resources/pdf/logo.png Graphic file (type bmp)
+<./resources/pdf/logo.png>
+ [42
+
+]
+File: ./resources/pdf/logo.png Graphic file (type bmp)
+<./resources/pdf/logo.png>
+ [43
+
+]
 
 LaTeX Font Warning: Font shape `T1/calligra/b/n' undefined
-(Font)              using `T1/calligra/m/n' instead on input line 303.
+(Font)              using `T1/calligra/m/n' instead on input line 352.
 
 LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 35.82726pt on input line 303.
-[38
+(Font)              scaled to size 35.82726pt on input line 352.
+[44
 
 ]
 \tf@nav=\write8
@@ -1877,12 +1911,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46033 strings out of 476179
- 1030171 string characters out of 5813072
- 1508966 words of memory out of 5000000
- 65910 multiletter control sequences out of 15000+600000
+ 46074 strings out of 476179
+ 1032306 string characters out of 5813072
+ 1511300 words of memory out of 5000000
+ 65951 multiletter control sequences out of 15000+600000
  482577 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  128i,13n,148p,1843b,3921s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (38 pages).
+Output written on main.pdf (44 pages).

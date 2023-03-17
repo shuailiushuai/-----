@@ -1,4 +1,4 @@
 \babel@toc {english}{}\relax 
 \beamer@sectionintoc {1}{一、什么或者谁是政府}{5}{0}{1}
 \beamer@sectionintoc {2}{二、政府活动的类型}{7}{0}{2}
-\beamer@sectionintoc {3}{三、公共部门规模的度量}{16}{0}{3}
+\beamer@sectionintoc {3}{三、公共部门规模的度量}{17}{0}{3}
