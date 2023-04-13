@@ -1,0 +1,7 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{内容提要}{4}{0}{1}
+\beamer@sectionintoc {2}{一、引言}{6}{0}{2}
+\beamer@sectionintoc {3}{二、概念界定}{13}{0}{3}
+\beamer@sectionintoc {4}{三、邻避冲突的成因及其演化过程}{18}{0}{4}
+\beamer@sectionintoc {5}{四、国外治理邻避冲突的经验}{27}{0}{5}
+\beamer@sectionintoc {6}{五、邻避冲突的治理策略}{32}{0}{6}

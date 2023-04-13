@@ -1,0 +1,5 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{一、产权与合同履行}{5}{0}{1}
+\beamer@sectionintoc {2}{二、市场失灵与政府作用}{9}{0}{2}
+\beamer@sectionintoc {3}{三、再分配与有益产品}{21}{0}{3}
+\beamer@sectionintoc {4}{四、政府作用的两个视角}{25}{0}{4}

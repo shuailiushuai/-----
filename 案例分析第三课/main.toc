@@ -1,0 +1,8 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{内容提要}{4}{0}{1}
+\beamer@sectionintoc {2}{一、案例导入}{6}{0}{2}
+\beamer@sectionintoc {3}{二、前言}{10}{0}{3}
+\beamer@sectionintoc {4}{三、高速公路的公共产品属性}{15}{0}{4}
+\beamer@sectionintoc {5}{四、我国高速公路收费供给的失效分析}{21}{0}{5}
+\beamer@sectionintoc {6}{五、我国高速公路免费通行的拥挤分析}{35}{0}{6}
+\beamer@sectionintoc {7}{六、我国高速公路有效供给的对策}{45}{0}{7}
